@@ -2,46 +2,6 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
 }
-body p{
-    text-align: justify;
-}
-h1{
-    font-size: 50px;
-}
-h2{
-   font-size: 40px;
-}
 .orange-color{
     color: orange;
-}
-.link-button{
-    text-decoration: none;
-    color: white;
-    background-image: linear-gradient(orange,tomato);
-    padding: 10px 40px;
-    font-weight: 900;
-    border-radius: 10px;
-}
-.flexible-sec{
-    display: flex;
-    width: 50%;
-}
-.first{
-    display: flex;
-    background-image: url(images/top-banner.png);
-    background-repeat: no-repeat;
-    margin-bottom: 150px;
-}
-.second{
-    display: flex;
-    background-image: url(images/dream-bg.png);
-    background-repeat: no-repeat;
-    background-position: right;
-}
-.half-width{
-    width: 50%;
-    padding-left: 5%;
-}
-.half-width img{
-    width: 100%;
 }
