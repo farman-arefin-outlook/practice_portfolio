@@ -58,17 +58,19 @@ body p{
     margin-right: 5%;
     padding-left: 20px;
     padding-right: 20px;
-    border-radius: 10px;
+   
 }
 #ele-1{
     border-left: 7px solid;
     border-image: linear-gradient(orange,tomato);
     border-image-slice: 1;
+     border-bottom-left-radius: 2px;
 }
 #ele-2{
     border-left: 7px solid;
     border-image: linear-gradient(cyan, blue);
     border-image-slice: 1;
+     border-bottom-left-radius: 2px;
 }
 
 footer p{
